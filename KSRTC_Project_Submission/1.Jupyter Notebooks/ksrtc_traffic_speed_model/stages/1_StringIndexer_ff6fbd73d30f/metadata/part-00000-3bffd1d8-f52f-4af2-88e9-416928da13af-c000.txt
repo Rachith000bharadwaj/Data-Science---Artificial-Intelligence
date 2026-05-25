@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1761756149701,"sparkVersion":"4.0.1","uid":"StringIndexer_ff6fbd73d30f","paramMap":{"handleInvalid":"skip","inputCol":"Road/Intersection Name","outputCol":"Road/Intersection Name_Idx"},"defaultParamMap":{"stringOrderType":"frequencyDesc","handleInvalid":"error","outputCol":"StringIndexer_ff6fbd73d30f__output"}}

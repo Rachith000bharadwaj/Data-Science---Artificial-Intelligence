@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1761756149241,"sparkVersion":"4.0.1","uid":"StringIndexer_326fb1374799","paramMap":{"outputCol":"Area Name_Idx","inputCol":"Area Name","handleInvalid":"skip"},"defaultParamMap":{"outputCol":"StringIndexer_326fb1374799__output","stringOrderType":"frequencyDesc","handleInvalid":"error"}}

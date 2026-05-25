@@ -1,0 +1,10 @@
+.venv/
+DATASETS/
+Video.mp4
+
+node_modules/
+.next/
+dist/
+build/
+__pycache__/
+*.pyc

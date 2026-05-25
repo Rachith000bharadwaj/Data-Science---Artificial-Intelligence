@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1761756150019,"sparkVersion":"4.0.1","uid":"VectorAssembler_2e1668ac49f8","paramMap":{"outputCol":"features","inputCols":["Area Name_Idx","Road/Intersection Name_Idx","Traffic Volume"],"handleInvalid":"skip"},"defaultParamMap":{"outputCol":"VectorAssembler_2e1668ac49f8__output","handleInvalid":"error"}}
