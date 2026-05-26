@@ -173,14 +173,6 @@ npm run dev
 - Recharts
 - Lucide React icons
 
-## Files Not Uploaded
-
-Some local files were intentionally not pushed to GitHub because they are too large or not suitable for normal GitHub storage:
-
-- `DATASETS/`
-- `Video.mp4`
-- `.venv/`
-
 The repository includes the lightweight project files needed to understand the project structure, notebooks, backend, frontend source code, report, overview, and presentation.
 
 ## Documentation Files
